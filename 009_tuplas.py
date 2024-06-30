@@ -4,7 +4,7 @@ Programação Estruturada
 """
 
 """
-Tuplas - é um objeto imutável, o seu estado é congelado na inicialização.
+Tupla - é um objeto imutável, o seu estado é congelado na inicialização.
 Lista é mutável. 
 
 Tupla é entre (), exemplo: tupla=(1,2,3); tupla2=('aaa',1,2,'bbb')
