@@ -49,3 +49,10 @@ print(somar(10,20,30,f))
 # Funções lambda
 a= lambda x: x*2
 print(a(4))
+
+
+# o " * " nas funções - muito importante, pode receber uma quantidade indefinidad ed enúmeros
+def foo(*args):
+    return sum (*args)
+
+print(foo([1,2,3,4,5]))
